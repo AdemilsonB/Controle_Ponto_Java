@@ -1,7 +1,7 @@
 # Controle de Ponto com Java
 
 <h3>Aplicação criada com Java durante o segundo sementre do ano de 2021.<br>
-Desenvolvimento completo, com modelo Model, View e Controller(MVC), a aplicação foi desenvolvida para o controle de ponto de para funcionarios de uma empresa</h3>
+Desenvolvimento completo, com modelo Model, View e Controller(MVC), a aplicação foi desenvolvida para o controle de ponto de para funcionários de uma empresa</h3>
 
 <h2>Ferramentas e Tecnologias ultilizadas para o desenvolvimento:</h2>
 - IDE Eclipse;<br>
