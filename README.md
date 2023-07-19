@@ -26,7 +26,7 @@ Desenvolvimento completo, com modelo Model, View e Controller(MVC), a aplicaçã
 - MarcacaoController;<br>
 
 <h2>Descrição de Funcionalidades do sistema:</h2>
-O sistema que desenvolvemos tem como objetivo oferecer funcionalidades abrangentes para gerenciar informações importantes do nosso contexto. Com ele, você poderá realizar diversas operações de forma fácil e organizada.<br>
+O sistema tem como objetivo oferecer funcionalidades abrangentes para gerenciar informações importantes do nosso contexto. Com ele, você poderá realizar diversas operações de forma fácil e organizada.<br>
 
 No módulo de cadastro, você poderá inserir dados relevantes sobre funcionários e suas respectivas marcações. O sistema realizará verificações e validações para garantir a integridade dos registros, assegurando que apenas informações corretas e válidas sejam armazenadas.<br>
 
